@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/37922825/134316532-5abe6eef-6194-4f24-9794-53e03f2521a6.png)
 
 
-#### Run the below query on Chat_DB to see the details on nummber of calls made to each button
+#### Run the below query on Chat_DB to see the details on number of calls made to each button
 
 ```bash
   select *from chat_chatusers;
